@@ -17,6 +17,9 @@
     "rules": {
         "prettier/prettier": "error",
         "no-unused-vars": "error",
-        "no-console": "off"
+        "no-console": "off",
+        "no-underscore-dangle": "off",
+        "new-cap":"off",
+        "import/no-extraneous-dependencies": "off"
     }
 }
